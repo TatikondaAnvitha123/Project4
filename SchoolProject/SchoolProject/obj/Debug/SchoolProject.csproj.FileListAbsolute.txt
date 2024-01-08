@@ -1,0 +1,7 @@
+C:\Users\anves\OneDrive\Mphasis\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe.config
+C:\Users\anves\OneDrive\Mphasis\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe
+C:\Users\anves\OneDrive\Mphasis\SchoolProject\SchoolProject\bin\Debug\SchoolProject.pdb
+C:\Users\anves\OneDrive\Mphasis\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.AssemblyReference.cache
+C:\Users\anves\OneDrive\Mphasis\SchoolProject\SchoolProject\obj\Debug\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\anves\OneDrive\Mphasis\SchoolProject\SchoolProject\obj\Debug\SchoolProject.exe
+C:\Users\anves\OneDrive\Mphasis\SchoolProject\SchoolProject\obj\Debug\SchoolProject.pdb
